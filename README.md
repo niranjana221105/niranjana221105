@@ -93,10 +93,10 @@ class Niranjana:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/niranjanailango">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=niranjanailango&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/niranjana221105">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=niranjana221105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/niranjanailango">
+  <a href="https://github.com/niranjana221105">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanailango&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
@@ -106,7 +106,7 @@ class Niranjana:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=niranjanailango&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=niranjana221105&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ class Niranjana:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanailango&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjana221105&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ class Niranjana:
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjanailango&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niranjana221105&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </p>
 
 ---
