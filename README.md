@@ -31,12 +31,11 @@ class Niranjana:
     location    = "Tenkasi, Tamil Nadu, India 🇮🇳"
     degree      = "B.E. Computer Science & Engineering"
     college     = "Rathinam Technical Campus, Coimbatore"
-    cgpa        = 8.88
+    cgpa        = 9.00
 
     stack = [
         "Python", "Java",
-        "AWS", "Azure",
-        "PostgreSQL",
+        "PostgreSQL","MongoDB",
         "HTML", "CSS",
         "Selenium", "Figma"
     ]
@@ -44,8 +43,7 @@ class Niranjana:
     currently_learning = [
         "Data Science (Sabudh Foundation)",
         "Machine Learning & Model Evaluation",
-        "UI/UX Design Principles",
-        "Azure Cloud Architecture"
+        "UI/UX Design Principles"
     ]
 
     fun_fact = "I built an AI app that reads prescriptions 💊"
@@ -67,10 +65,6 @@ class Niranjana:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Databases**
 
@@ -124,7 +118,7 @@ class Niranjana:
 ## 💼 Work Experience
 
 <details>
-  <summary>🔬 <strong>Sabudh Foundation</strong> — Data Science Intern &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; Remote (Online)</summary>
+  <summary>🔬 <strong>Sabudh Foundation</strong> — Data Science Intern &nbsp;|&nbsp; Jan 2026 – June 2026 &nbsp;|&nbsp; Remote (Online)</summary>
   <br/>
 
   > `Python` `Pandas` `NumPy` `Machine Learning` `Data Cleaning` `EDA`
@@ -169,9 +163,9 @@ class Niranjana:
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **IBM UI/UX Certificate** | *Introduction to UI/UX Design* — IBM via Coursera |
-| ☁️ | **Microsoft Azure Certificate** | *Understanding Azure Architecture & Services* — Datacamp |
-| 📊 | **CGPA: 8.88** | B.E. Computer Science & Engineering, Rathinam Technical Campus |
+| 🎓 | **Deloitte Certificate** | *Data Analytics Job Simulation*|
+| ☁️ | **Datacamp certificate** | *Introduction to Java* |
+| 📊 | **CGPA: 9.00** | B.E. Computer Science & Engineering, Rathinam Technical Campus |
 | 🏫 | **Higher Secondary: 86.83%** | Oxford Matric Higher Secondary School, Tenkasi |
 
 </div>
@@ -184,7 +178,7 @@ class Niranjana:
 
 | 📖 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering | Rathinam Technical Campus, Coimbatore | 2023 – Present | 8.88 CGPA |
+| B.E. Computer Science & Engineering | Rathinam Technical Campus, Coimbatore | 2023 – Present | 9.00 CGPA |
 | Higher Secondary (12th) | Oxford Matric Hr. Sec. School, Tenkasi | 2022 – 2023 | 86.83% |
 
 </div>
@@ -195,10 +189,9 @@ class Niranjana:
 
 ```
 🤖 Machine Learning      →  Regression, Classification, Model Evaluation
-☁️  Azure Cloud          →  Architecture, Services, Deployments
 🎨 UI/UX Design          →  Figma, Wireframing, Prototyping, Design Systems
 🐍 Python for Data       →  Pandas, NumPy, Visualization, EDA
-🗄️  Databases            →  PostgreSQL, Query Optimization
+🗄️  Databases            →  PostgreSQL,MongoDB, Query Optimization
 ```
 
 ---
